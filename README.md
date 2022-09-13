@@ -1,9 +1,9 @@
 ### Olá! Bem vindo ao meu GitHub 👋
 
-<div>
+<div align="center">
   <a href="https://www.instagram.com/br4v999/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brav999&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brav999&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brav999&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brav999&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
