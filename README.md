@@ -1,14 +1,12 @@
-### Olá! Bem vindo ao meu GitHub 👋
-
 <div align="center">
-  <a href="https://github.com/brav999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brav999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brav999&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+### Olá! Bem vindo ao meu GitHub 👋
+[![card](https://github-readme-stats.vercel.app/api?username=brav999&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brav999&hide=html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Brav-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="brav-post" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="brav-r" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="brav-jupyter" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
 </div>
