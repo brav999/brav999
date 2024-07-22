@@ -1,8 +1,7 @@
 <div align="center">
 
 ### Olá! Bem vindo ao meu GitHub 👋
-[![card](https://github-readme-stats.vercel.app/api?username=brav999&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brav999&hide=html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![roadmap.sh](https://roadmap.sh/card/tall/6699491aff02ffb669291862?variant=dark)](https://roadmap.sh)
 
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
