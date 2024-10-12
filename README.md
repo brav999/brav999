@@ -9,4 +9,4 @@
 </div>
 </div>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/brav999/brav999/blob/output/github-contribution-grid-snake2.svg)
